@@ -336,16 +336,16 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6EC581B5-83AD-4307-B342-AB642DE73356}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/2D__Scaner+FM_v.9.6-ESP32/Application.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">2D__Scaner+FM.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/2D__Scaner+FM_v.9.6-ESP32/2D__Scaner+FM.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/2D__Scaner+FM_v.9.6-ESP32/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{81B7F38E-CB29-4A8C-A6FD-DD2AB194171B}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{13C76453-0668-4C4E-92C9-7A5816FDFC4B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/2D__Scaner+FM_v.9.6-ESP32.vi</Property>
@@ -357,7 +357,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2022 </Property>
 				<Property Name="TgtF_productName" Type="Str">2D__Scaner+FM_v.9.6-ESP32</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{89496D13-27DA-4DDD-A92C-4A930DA02B71}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">2D__Scaner+FM.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
